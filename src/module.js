@@ -1,4 +1,5 @@
 function main ( param1, param2, params ) {   
+   console.log( " hello ", param1 );
    console.log( " hello ", params );
    console.log( " hello ", param3 );
    console.log( " hello ", arguments );
